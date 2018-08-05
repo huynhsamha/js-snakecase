@@ -1,6 +1,6 @@
 {
   "name": "js-snakecase",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "JavaScript convert string to snake_case - Use for both Node.JS and Browser.",
   "main": "index.js",
   "scripts": {
